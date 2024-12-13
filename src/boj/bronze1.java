@@ -13,5 +13,7 @@ public class bronze1 {
         for(int i = 0; i < a.length; i++){
             System.out.print(a[i] + " ");
         }
+
+        System.out.println("첫번째 커밋 테스트 깃 연동함.");
     }
 }
