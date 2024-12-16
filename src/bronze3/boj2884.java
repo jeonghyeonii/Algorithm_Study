@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class boj2884 {
     public static void main(String[] args) {
+        // 문제명: 알람 시계
         Scanner sc = new Scanner(System.in);
         int h = sc.nextInt();
         int m = sc.nextInt();
